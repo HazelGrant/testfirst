@@ -18,6 +18,7 @@ require_relative '../temperature'
 require_relative '../calculator'
 require_relative '../simon_says'
 require_relative '../pig_latin'
+require_relative '../book'
 #
 # See http://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 RSpec.configure do |config|
